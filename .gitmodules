@@ -1,0 +1,27 @@
+[submodule "Chinese/Mind-Hacks"]
+	path = Chinese/Mind-Hacks
+	url = https://github.com/evmn/Mind-Hacks
+[submodule "English/Blogs/Paul-Graham"]
+	path = English/Blogs/Paul-Graham
+	url = https://github.com/evmn/Paul-Graham
+[submodule "English/Blogs/Slate-Star-Codex"]
+	path = English/Blogs/Slate-Star-Codex
+	url = https://github.com/evmn/Slate-Star-Codex
+[submodule "English/Blogs/Nicholas-C.-Zakas"]
+	path = English/Blogs/Nicholas-C.-Zakas
+	url = https://github.com/evmn/Nicholas-C.-Zakas
+[submodule "English/Blogs/The-Manuscripts-of-Edsger-W.-Dijkstra"]
+	path = English/Blogs/The-Manuscripts-of-Edsger-W.-Dijkstra
+	url = https://github.com/evmn/The-Manuscripts-of-Edsger-W.-Dijkstra
+[submodule "English/Textbooks/aosabook"]
+	path = English/Textbooks/aosabook
+	url = https://github.com/evmn/aosabook
+[submodule "English/Textbooks/tspl4"]
+	path = English/Textbooks/tspl4
+	url = https://github.com/evmn/tspl4
+[submodule "English/Textbooks/cs61a"]
+	path = English/Textbooks/cs61a
+	url = https://github.com/evmn/cs61a
+[submodule "English/the-economist"]
+	path = English/the-economist
+	url = https://github.com/evmn/the-economist
