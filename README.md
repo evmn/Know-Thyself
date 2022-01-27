@@ -1,14 +1,12 @@
 # Know Thyself
 
-[中文版](README-CN.md)
-
 ## Chinese
 
-Title|Authors
-:-|:-
-[Mind Hacks](https://github.com/evmn/Mind-Hacks)|刘未鹏
-编程随想: 2009 ~ 2021 Blog Archives|Program Think
-晚点 LatePost|宋玮……
+Title|Authors|Github
+:-|:-|:-
+[Mind Hacks](http://mindhacks.cn/)|刘未鹏|[Mind-Hacks](https://github.com/evmn/Mind-Hacks)
+[编程随想: 2009 ~ 2021 Blog Archives](https://program-think.blogspot.com)|Program Think|-
+[晚点 LatePost](http://latepost.com/)|宋玮……|~~[latepost.com](https://github.com/evmn/latepost.com)~~
 
 
 <p align="middle">
@@ -23,14 +21,14 @@ Title|Authors
 
 ### Blogs
 
-Title|Authors
-:-|:-
-[Essays of Paul Graham](https://github.com/evmn/Paul-Graham)|Paul Graham
-[Slate Star Codex](https://github.com/evmn/Slate-Star-Codex)|Scott Alexander
-Astral Codex Ten|Scott Alexander
-Vitalik Buterin's website|Vitalik Buterin
-[The Manuscripts of Edsger W. Dijkstra](https://github.com/evmn/The-Manuscripts-of-Edsger-W.-Dijkstra)|Edsger W. Dijkstra
-[Human Who Codes](https://github.com/evmn/Nicholas-C.-Zakas)|Nicholas C. Zakas
+Title|Authors|Github
+:-|:-|:-
+[Essays of Paul Graham](http://paulgraham.com/articles.html)|Paul Graham|[Paul-Graham](https://github.com/evmn/Paul-Graham)
+[Slate Star Codex](https://slatestarcodex.com/)|Scott Alexander|[Slate-Star-Codex](https://github.com/evmn/Slate-Star-Codex)
+[Astral Codex Ten](https://astralcodexten.substack.com/)|Scott Alexander|[Slate-Star-Codex](https://github.com/evmn/Slate-Star-Codex)
+[Vitalik Buterin's website](https://vitalik.ca/)|Vitalik Buterin|TODO
+[E. W. Dijkstra Archive](https://www.cs.utexas.edu/users/EWD/)|Edsger W. Dijkstra|[The-Manuscripts-of-Edsger-W.-Dijkstra](https://github.com/evmn/The-Manuscripts-of-Edsger-W.-Dijkstra)
+[Human Who Codes](https://humanwhocodes.com/)|Nicholas C. Zakas|[Nicholas-C.-Zakas](https://github.com/evmn/Nicholas-C.-Zakas)
 
 The Math formula in Vitalik Buterin's website is difficult to handle.
 
@@ -47,14 +45,14 @@ Edsger W. Dijkstra's manuscripts is really hard to process properly.
 
 ### Programming Textbooks
 
-Title|Authors
-:-|:-
-[The Architecture of Open Source Applications](https://github.com/evmn/aosabook)|Amy Brown & Greg Wilson & Tavish Armstrong & Michael DiBernardo
-Open Sources: Voices from the Open Source Revolution|Chris DiBona & Sam Ockman & Mark Stone
-[The Scheme Programming Language](https://github.com/evmn/tspl4)|R. Kent Dybvig
-[CS61A: SICP](https://github.com/evmn/cs61a)|John DeNero
-Composing Programs|John DeNero
-Structure and Interpretation of Computer Programs: JavaScript Edition|Harold Abelson & Gerald Jay Sussman & Martin Henz & Tobias Wrigstad
+Title|Authors|Github
+:-|:-|:-
+[The Architecture of Open Source Applications](http://aosabook.org/en/index.html)|Amy Brown & Greg Wilson & Tavish Armstrong & Michael DiBernardo|[aosabook](https://github.com/evmn/aosabook)
+[Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/)|Chris DiBona & Sam Ockman & Mark Stone|
+[The Scheme Programming Language](https://www.scheme.com/tspl4/)|R. Kent Dybvig|[tspl4](https://github.com/evmn/tspl4)
+[CS61A: Online Textbook](https://inst.eecs.berkeley.edu/~cs61a/sp12/book/index.html)|John DeNero|[cs61a](https://github.com/evmn/cs61a)
+[Composing Programs](http://www.composingprograms.com/)|John DeNero|[cs61a](https://github.com/evmn/cs61a)
+[Structure and Interpretation of Computer Programs: JavaScript Edition](https://sicp.sourceacademy.org/)|Harold Abelson & Gerald Jay Sussman & Martin Henz & Tobias Wrigstad|[source-academy/sicp](https://github.com/source-academy/sicp)
 
 <p align="middle">
 <img src="images/aosabook.jpg" width=30% />
@@ -69,8 +67,8 @@ Structure and Interpretation of Computer Programs: JavaScript Edition|Harold Abe
 
 Title|Authors
 :-|:-
-International Journal of PoC or GTFO|Manul Laphroaig
-Corelan Cybersecurity Research|Peter Van Eeckhoutte
+[International Journal of PoC or GTFO](https://openwall.info/wiki/people/solar/pocorgtfo)|Manul Laphroaig
+[Corelan Cybersecurity Research](https://www.corelan.be/index.php/articles/)|Peter Van Eeckhoutte
 
 <p align="middle">
 <img src="images/Poc-or-GTFO.jpg" width=30% />
@@ -79,7 +77,9 @@ Corelan Cybersecurity Research|Peter Van Eeckhoutte
 
 ### Magzine
 
-[The Economist](https://github.com/evmn/the-economist)
+Title|Github
+:-|:-
+[The Economist](https://www.economist.com/weeklyedition/archive)|[the-economist](https://github.com/evmn/the-economist)
 
 <p align="middle">
 <img src="images/TE-8598.jpg"  width=29% />
